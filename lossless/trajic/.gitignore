@@ -1,0 +1,8 @@
+*.o
+obj/
+doc/
+bin/
+test/test
+experiments/*
+
+!experiments/*.rb
