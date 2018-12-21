@@ -1,5 +1,7 @@
 # traj-compression
-The source code was use for the empirical study of trajectory compression ,"Trajectory Simplification: An Experimental Study andQuality Analysis"
+The source code was use for 2018 vldb the empirical study of trajectory compression ,"Trajectory Simplification: An Experimental Study andQuality Analysis"
+Please cite by :
+Dongxiang Zhang, Mengting Ding, Dingyu Yang, Yi Liu, Ju Fan,and Heng Tao Shen. Trajectory Simplification: An Experimental Study and Quality Analysis. PVLDB, 11 (9): 934-946, 2018.DOI: https://doi.org/10.14778/3213880.3213885
 # lossless algorithms
   1. TrajStore algorithm    
   2. Trajic algorithm
